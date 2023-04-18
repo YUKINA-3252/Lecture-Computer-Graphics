@@ -127,3 +127,10 @@ https://bb.githack.com/kenshi84/legacygl.js/raw/master/demo/hello3d.html
 
 ### Tutorial ###
 - [Managing Shader Variables](doc/managing-shader-variables.md)
+
+### Assignment Demo for Glitch ###
+- Assignment 01
+    - quadratic Bézier curve(01_A.html)
+      https://lecture-computer-graphics.glitch.me/01_A.html
+    - n-order Bézier curve(01_B.html)
+      https://lecture-computer-graphics.glitch.me/01_B.html
