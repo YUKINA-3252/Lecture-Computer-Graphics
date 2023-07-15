@@ -139,3 +139,8 @@ https://bb.githack.com/kenshi84/legacygl.js/raw/master/demo/hello3d.html
     - IK implementation using ccd method(ik.html)
       https://lecture-computer-graphics.glitch.me
       ![ik](movie/ik.gif)
+
+- Image Filtering
+    - Implementing Bilateral Filter with Gaussian Filter(imageFiltering.html)
+      https://lecture-computer-graphics.glitch.me/imageFiltering.html
+      ![imageFiltering](pic/imageFiltering.png)
