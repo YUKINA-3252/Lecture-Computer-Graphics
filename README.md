@@ -155,4 +155,4 @@ https://bb.githack.com/kenshi84/legacygl.js/raw/master/demo/hello3d.html
 
       https://www.shadertoy.com/view/ddSfR1
 
-      ![rayTracing](movie/rayTracing.mp4)
+      ![rayTracing](movie/rayTracing.gif)
