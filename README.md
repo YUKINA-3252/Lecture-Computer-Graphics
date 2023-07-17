@@ -131,16 +131,26 @@ https://bb.githack.com/kenshi84/legacygl.js/raw/master/demo/hello3d.html
 ### Assignment Demo for Glitch ###
 - Assignment 01
     - quadratic Bézier curve(01_A.html)
+
       https://lecture-computer-graphics.glitch.me/01_A.html
     - n-order Bézier curve(01_B.html)
+
       https://lecture-computer-graphics.glitch.me/01_B.html
 
 - Inverse Kinematics (IK)
     - IK implementation using ccd method(ik.html)
+
       https://lecture-computer-graphics.glitch.me
       ![ik](movie/ik.gif)
 
 - Image Filtering
     - Implementing Bilateral Filter with Gaussian Filter(imageFiltering.html)
+
       https://lecture-computer-graphics.glitch.me/imageFiltering.html
       ![imageFiltering](pic/imageFiltering.png)
+
+- Ray Tracing
+    - Implementing ray tracing. Lambert's reflections are used for shaders. The direction of the light changes according to the position of the mouse cursor.
+
+      https://www.shadertoy.com/view/ddSfR1
+      ![rayTracing](movie/rayTracing.mp4)
