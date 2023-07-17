@@ -141,6 +141,7 @@ https://bb.githack.com/kenshi84/legacygl.js/raw/master/demo/hello3d.html
     - IK implementation using ccd method(ik.html)
 
       https://lecture-computer-graphics.glitch.me
+
       ![ik](movie/ik.gif)
 
 - Image Filtering
@@ -153,4 +154,5 @@ https://bb.githack.com/kenshi84/legacygl.js/raw/master/demo/hello3d.html
     - Implementing ray tracing. Lambert's reflections are used for shaders. The direction of the light changes according to the position of the mouse cursor.
 
       https://www.shadertoy.com/view/ddSfR1
+
       ![rayTracing](movie/rayTracing.mp4)
